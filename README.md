@@ -1,17 +1,17 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
+# [Objetos Inteligentes Conectados] 5 sem. 2018
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 5k11
+## Projeto: "Sensor de Chuva"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* Eric Alves
+* Marcella Bastos
 
 ## Descrição resumida do projeto
 
-Descreva resumidamente o projeto aqui.
+O projeto será um sensor de chuva, para poder deixar em sua janela, para que quando esteja chovendo você receba uma mensagem em seu celular para lembrar se fechou ou não sua janela.
+
+O projeto usará além de um Raspberry Pi, um sensor de chuva com saídas analógica e digital.
 
 _______________________________________
 Obs:
